@@ -1,10 +1,16 @@
-## Doaa Awan
+# Doaa Awan
 
 Problem solver with an eye for design and a passion for building smart, user-focused web apps that make an impact.
 
+### About Me
+<ul>
+  <li>Advanced Diploma in Computer Programming & Analysis from Niagara College</li>
+  <li>Currently working as a Robotic Process Automation Developer (Rewst, Jinja, Power Automate)</li>
+</ul>
+
 <a href="https://doaa.ca/" target="blank">View Portfolio</a>
 
-#### ⚜ Technical Skills ⚜ 
+### ⚜ Technical Skills ⚜ 
 
 <div>
   <p>Languages ➖</p>
