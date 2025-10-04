@@ -1,14 +1,20 @@
 # Doaa Awan
 
 Problem solver with an eye for design and a passion for building smart, user-focused web apps that make an impact.
+<a href="https://doaa.ca/" target="blank">View Portfolio</a>
 
 ### About Me
 <ul>
-  <li>Advanced Diploma in Computer Programming & Analysis from Niagara College</li>
+  <li>Completed an Advanced Diploma in Computer Programming & Analysis from Niagara College</li>
   <li>Currently working as a Robotic Process Automation Developer (Rewst, Jinja, Power Automate)</li>
 </ul>
 
-<a href="https://doaa.ca/" target="blank">View Portfolio</a>
+### Project Experience
+<ul>
+  <li>Collaborated on a VS Code Extension that uses AI to analyze code and provide suggestions to reduce tech debt. <a href="https://github.com/MarkAnthonyAlejo/refactor-radar-backend" target="_blank">View Repository</a></li>
+  <li>Led a team of 4 to develop a full-stack web application utilizing C#, SQLite, JavaScript, and the ASP.NET MVC framework to streamline report management for a local manufacturing company. <a href="https://github.com/Dorian-Orozco/JDAC4-Haver-Niagara" target="blank">View Repository</a></li>
+  <li>Collaborated within a 5-member Agile team to design and develop a CRM-style web application supporting equipment repair management, utilizing HTML/CSS and JavaScript to deliver 40+ functional pages. <a href="https://github.com/DoaaAwan/crm-emmas-small-engines" target="blank">View Repository</a></li>
+</ul>
 
 ### ⚜ Technical Skills ⚜ 
 
