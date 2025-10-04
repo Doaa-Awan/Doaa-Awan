@@ -16,13 +16,14 @@ Problem solver with an eye for design and a passion for building smart, user-foc
   <li>Collaborated within a 5-member Agile team to design and develop a CRM-style web application supporting equipment repair management, utilizing HTML/CSS and JavaScript to deliver 40+ functional pages. <a href="https://github.com/DoaaAwan/crm-emmas-small-engines" target="blank">View Repository</a></li>
 </ul>
 
-### ⚜ Technical Skills ⚜ 
+### Technical Skills  
 
 <div>
   <p>Languages ➖</p>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" title="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="50" title="C Sharp">
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50" title="TypeScript">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" title="Python">
+  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="50" title="C Sharp">
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="Java">
   <img src="https://img.icons8.com/?size=100&id=XNQU0Xcm2I9s&format=png&color=000000" width="50" title="PHP">
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="50" title="SQL">
