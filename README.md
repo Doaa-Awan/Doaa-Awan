@@ -42,7 +42,7 @@ Problem solver with an eye for design and a passion for building smart, user-foc
 <hr>
 <div>
   <p>Databases ➖</p>
-  <img src=" https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" title="PostgreSQL">
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" title="PostgreSQL">
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" title="MySQL">
   <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=0f80cc" width="50" title="SQLite">
   <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="50" title="MongoDB">
