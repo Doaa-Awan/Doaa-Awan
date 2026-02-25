@@ -39,7 +39,7 @@ Full-stack software engineer building internal tools, workflow automation, and A
     </td>
     <td width="50%">
       <h3>🔧 Refactor Radar</h3>
-      <p>VS Code extension backend that analyzes codebases for technical debt and generates actionable refactoring recommendations using AI.</p>
+      <p>VS Code extension backend for AI-powered code quality analysis. Contributed AST-based static analysis functions for detecting long functions, dead code, and poor naming patterns, with Jest test coverage.</p>
       <p><strong>Node.js · Express · OpenAI API</strong></p>
       <a href="https://github.com/MarkAnthonyAlejo/refactor-radar-backend">View Repo</a>
     </td>
