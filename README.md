@@ -1,76 +1,90 @@
 # Doaa Awan
 
-Problem solver with an eye for design and a passion for building smart, user-focused web apps that make an impact.
-<a href="https://doaa.ca/" target="blank">View Portfolio</a>
+Full-stack software engineer building internal tools, workflow automation, and AI-powered web applications. Currently seeking a software engineering role at a growth-stage startup.
 
-### About Me
-<ul>
-  <li>Completed an Advanced Diploma in Computer Programming & Analysis from Niagara College</li>
-  <li>Currently working as a Robotic Process Automation Developer (Rewst, Jinja, Power Automate)</li>
-</ul>
+<a href="https://doaa.ca/" target="_blank">Portfolio</a> · <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
 
-### Project Experience
-<ul>
-  <li>Collaborated on a VS Code Extension that uses AI to analyze code and provide suggestions to reduce tech debt. <a href="https://github.com/MarkAnthonyAlejo/refactor-radar-backend" target="_blank">View Repository</a></li>
-  <li>Led a team of 4 to develop a full-stack web application utilizing C#, SQLite, JavaScript, and the ASP.NET MVC framework to streamline report management for a local manufacturing company. <a href="https://github.com/Dorian-Orozco/JDAC4-Haver-Niagara" target="blank">View Repository</a></li>
-  <li>Collaborated within a 5-member Agile team to design and develop a CRM-style web application supporting equipment repair management, utilizing HTML/CSS and JavaScript to deliver 40+ functional pages. <a href="https://github.com/DoaaAwan/crm-emmas-small-engines" target="blank">View Repository</a></li>
-</ul>
+---
 
-### Technical Skills  
+### What I'm Working On
+
+- 🔭 **AI Database Explorer** — connect any PostgreSQL database, ask questions in plain English, get accurate SQL back. Built after joining a company with no database documentation.
+- 🌱 Currently improving: TypeScript, system design, leetcode
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ AI Database Explorer</h3>
+      <p>Ask questions in plain English, get accurate SQL back. Introspects your PostgreSQL schema dynamically — no manual configuration required.</p>
+      <p><strong>React · TypeScript · Node.js · PostgreSQL · OpenAI API</strong></p>
+      <a href="https://github.com/Doaa-Awan/ai-db-explorer">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>📋 NCR Quality Management System</h3>
+      <p>Replaced spreadsheets and manual email chains for a manufacturing client's non-conformance report workflow. Multi-stage lifecycle, RBAC, automated email notifications.</p>
+      <p><strong>C# · ASP.NET MVC · SQLite · Azure · Bootstrap</strong></p>
+      <a href="https://github.com/Doaa-Awan/ncr-quality-management">View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🩺 Patiently — AI Symptom Tracker</h3>
+      <p>Symptom tracking for caregivers managing multiple patients. Speech-to-text logging, AI-generated summaries, role-based access.</p>
+      <p><strong>React · Node.js · MongoDB · OpenRouter API</strong></p>
+      <a href="https://github.com/Doaa-Awan/patiently">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>🔧 Refactor Radar</h3>
+      <p>VS Code extension backend that analyzes codebases for technical debt and generates actionable refactoring recommendations using AI.</p>
+      <p><strong>Node.js · Express · OpenAI API</strong></p>
+      <a href="https://github.com/MarkAnthonyAlejo/refactor-radar-backend">View Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technical Skills
 
 <div>
-  <p>Languages ➖</p>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" title="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50" title="TypeScript">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" title="Python">
-  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="50" title="C Sharp">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="Java">
-  <img src="https://img.icons8.com/?size=100&id=XNQU0Xcm2I9s&format=png&color=000000" width="50" title="PHP">
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="50" title="SQL">
+  <p><strong>Languages</strong></p>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" title="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="45" title="TypeScript">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" title="Python">
+  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="45" title="C#">
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45" title="Java">
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="45" title="SQL">
 </div>
 <hr>
 <div>
-  <p>Frameworks & Libraries ➖</p>
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="50" title="React">
-  <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="50" title="ASP.NET MVC">
-  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50" title="Bootstrap">
-  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50" title="Pandas">
-  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50" title="Numpy">
-  <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="50" title="Matplotlib">
-  <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" width="50" title="Hadoop">
+  <p><strong>Frontend</strong></p>
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="45" title="React">
+  <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="45" title="ASP.NET MVC">
+  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="45" title="Bootstrap">
 </div>
 <hr>
 <div>
-  <p>Databases ➖</p>
-  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" title="PostgreSQL">
-  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" title="MySQL">
-  <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=0f80cc" width="50" title="SQLite">
-  <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="50" title="MongoDB">
-  <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" width="50" title="MariaDB">
+  <p><strong>Backend</strong></p>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="45" title="Node.js">
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="45" title="Express">
 </div>
 <hr>
 <div>
-  <p>Misc. ➖</p>
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="50" title="Figma">
-  <img src="https://img.icons8.com/?size=100&id=QaT9iepDXQab&format=png&color=000000" width="50" title="Adobe Illustrator">
-  <img src="https://img.icons8.com/?size=100&id=7cyyxLNMDATG&format=png&color=000000" width="50" title="Inkscape">
-  <img src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000" width="50" title="Grafana">
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="50" title="PowerBI">
-  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="50" title="Power Automate">
-  <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" width="50" title="WordPress">
+  <p><strong>Databases</strong></p>
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="45" title="PostgreSQL">
+  <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="45" title="MongoDB">
+  <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=0f80cc" width="45" title="SQLite">
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="45" title="MySQL">
 </div>
-
-<!--
-**Doaa-Awan/Doaa-Awan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div>
+  <p><strong>Tools & Platforms</strong></p>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="45" title="Figma">
+  <img src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000" width="45" title="Grafana">
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="45" title="PowerBI">
+  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="45" title="Power Automate">
+</div>
