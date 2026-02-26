@@ -2,7 +2,7 @@
 
 Full-stack software engineer building internal tools, workflow automation, and AI-powered web applications. Currently seeking a software engineering role at a growth-stage startup.
 
-<a href="https://doaa.ca/" target="_blank">Portfolio</a> · <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+<a href="https://doaa.ca/" target="_blank">Portfolio</a> · <a href="https://www.linkedin.com/in/doaa-awan/" target="_blank">LinkedIn</a>
 
 ---
 
@@ -59,20 +59,17 @@ Full-stack software engineer building internal tools, workflow automation, and A
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45" title="Java">
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="45" title="SQL">
 </div>
-<hr>
 <div>
   <p><strong>Frontend</strong></p>
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="45" title="React">
   <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" width="45" title="ASP.NET MVC">
   <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="45" title="Bootstrap">
 </div>
-<hr>
 <div>
   <p><strong>Backend</strong></p>
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="45" title="Node.js">
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="45" title="Express">
 </div>
-<hr>
 <div>
   <p><strong>Databases</strong></p>
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="45" title="PostgreSQL">
@@ -80,7 +77,6 @@ Full-stack software engineer building internal tools, workflow automation, and A
   <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=0f80cc" width="45" title="SQLite">
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="45" title="MySQL">
 </div>
-<hr>
 <div>
   <p><strong>Tools & Platforms</strong></p>
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="45" title="Figma">
