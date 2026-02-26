@@ -21,7 +21,7 @@ Full-stack software engineer building internal tools, workflow automation, and A
       <h3>🗄️ AI Database Explorer</h3>
       <p>Ask questions in plain English, get accurate SQL back. Introspects your PostgreSQL schema dynamically — no manual configuration required.</p>
       <p><strong>React · TypeScript · Node.js · PostgreSQL · OpenAI API</strong></p>
-      <a href="https://github.com/Doaa-Awan/ai-db-explorer">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="https://github.com/Doaa-Awan/QuerifyAI">View Repo</a> · <a href="#">Live Demo</a>
     </td>
     <td width="50%">
       <h3>📋 NCR Quality Management System</h3>
